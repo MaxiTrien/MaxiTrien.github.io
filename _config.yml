@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: <i class="fab fa-linkedin"></i>
+      url: "https://www.linkedin.com/in/maximilian-trien-187a71170/"
 
 # Site Footer
 footer:
