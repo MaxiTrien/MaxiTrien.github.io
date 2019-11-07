@@ -134,6 +134,10 @@ author:
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/maximilian-trien-187a71170/"
+    - label: "Xing"
+      icon: "fab fa-xing-square"
+      url: "https://www.xing.com/profile/Maxi_Trien/cv"
+
 
 # Site Footer
 footer:
