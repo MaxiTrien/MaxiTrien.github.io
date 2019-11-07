@@ -110,7 +110,7 @@ author:
   name             : "Maxi Trien"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio."
-  location         : "Munich"
+  location         : "Munich, DE"
   email            :
   links:
     - label: "Email"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/MaxiTrien"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
