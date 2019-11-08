@@ -292,7 +292,7 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Default
 defaults:
   # _posts
   - scope:
