@@ -8,7 +8,7 @@ header:
 
 ---
 
-Hier kann man doch war hinschreiben 
+Projects on github
 
 
 {% include base_path %}

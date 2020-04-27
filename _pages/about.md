@@ -5,5 +5,7 @@ header:
     image: "/images/taster.jpg"
 ---
 
-Like to play around with data and find interesting things
+Passionate about Data Science.
+
+I'm looking for ways to put my skills into practice.
 
