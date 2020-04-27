@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /machine-learning/
+permalink: /machine learning/
 title: "Machine Learning posts by tags"
 author_profile: true
 header:
