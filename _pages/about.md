@@ -2,8 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-    image: "/images/heart.jpg"
+    image: "/images/taster.jpg"
 ---
 
-Hello i want to be a data scientist 
+Like to play around with data and find interesting things
 
