@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Maxi Trien"
 description              : "Portfolio"
-url                      : "https://MaximilianTrien.github.io"
+url                      : "https://MaximilianTrien.github.io/index.html"
 # baseurl                  : ""
 # repository               :  MaxiTrien/MaximilianTrien.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
