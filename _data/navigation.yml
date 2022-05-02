@@ -1,9 +1,14 @@
 # main links
 main:
+  - title: "Autonomous Driving"
+    url: /autonomous-driving/
+  - title: "Data Science"
+    url: /data-science/
+  - title: "Github Projects"
+    url: /github-projects/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
